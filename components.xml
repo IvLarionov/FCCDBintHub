@@ -1,4 +1,4 @@
-<?xml version="1.0"?><COMPONENTS author="amoiseenko" description="" name="dev2.vqs.net_BPL_11212018135505.xml" site="http://dev2.vqs.net:8080" ts="" ><REPORTS>
+<?xml version="1.0"?><COMPONENTS author="amoiseenko" description="" name="componentns.xml" site="http://dev2.vqs.net:8080" ts="" ><REPORTS>
  <REPORTS_ITEM>
   <DEFAULT_REPORT_FORMAT>1</DEFAULT_REPORT_FORMAT>
   <IS_EXCLUDE_HEADER>0</IS_EXCLUDE_HEADER>
