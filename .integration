@@ -1,2 +1,2 @@
 command = ./import-run.sh
-dafault_schedule = 0 * * ? * *
+default_schedule = 0 * * ? * *
