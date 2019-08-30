@@ -1,4 +1,5 @@
-SET=daily
-UN=
-PWD=
-URL=
+{
+"UserName":"amoiseenko",
+"Password":"amoiseenko",
+"URL":"http://dev2.vqs.net:8080"
+}
