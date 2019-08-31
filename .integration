@@ -1,2 +1,3 @@
 command = ./import-run_3.sh
 default_schedule = 0 * * ? * *
+read_from_stdout = false
