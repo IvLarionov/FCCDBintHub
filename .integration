@@ -1,3 +1,4 @@
 command = ./import-run_3.sh
 default_schedule = 0 * * ? * *
 read_from_stdout = true
+settings_file_name = my_install_passwords_renamed.json
